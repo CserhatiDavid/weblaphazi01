@@ -1,0 +1,23 @@
+body {
+	background-color: black;
+}
+h1 {
+	color: white;
+	text-align: center;
+}
+p {
+	color: white;
+}
+.left {
+	width: 50%;
+	max-width: 460px;
+	float: left;
+}
+.right {
+	width: 50%;
+	max-width: 460px;
+	float: right;
+}
+.image {
+	float: center;
+}
